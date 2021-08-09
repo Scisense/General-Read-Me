@@ -1,6 +1,8 @@
 # General-Read-Me
 Discussion and Information relating to upload pratices
 
+(General note - keep this to just pratices for github - this repo has to be public so any code/source/information will not be allowed!)
+
 Notes:
 
 just for the ease of use - feel free to edit this readme file for general pratice and formatting stuff as we develope the github 
