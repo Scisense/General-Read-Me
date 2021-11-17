@@ -1,5 +1,7 @@
 # General-Read-Me
-Discussion and Information relating to upload pratices
+Discussion and Information relating to upload pratices:
+
+#NEW:
 
 NOTES: Ran into a problem with verifying github on linux machines - basically if you run into an issue you have to create an SSH-key for your account for both machines. 
 
@@ -9,7 +11,7 @@ walk through. AS a note use the cat instead of 'clip' when it comes up as it's b
 
 (Just keep in mind you require a key - pretty much - for every device you edit on). 
 
-
+#OLDER
 (General note - keep this to just pratices for github - this repo has to be public so any code/source/information will not be allowed!)
 
 Notes:
