@@ -1,6 +1,15 @@
 # General-Read-Me
 Discussion and Information relating to upload pratices
 
+NOTES: Ran into a problem with verifying github on linux machines - basically if you run into an issue you have to create an SSH-key for your account for both machines. 
+
+https://www.youtube.com/watch?v=nQDFBd5NFA8 - walkthrough
+
+walk through. AS a note use the cat instead of 'clip' when it comes up as it's both present in git shell / terminal. However once you have created the identity your good to go. 
+
+(Just keep in mind you require a key - pretty much - for every device you edit on). 
+
+
 (General note - keep this to just pratices for github - this repo has to be public so any code/source/information will not be allowed!)
 
 Notes:
